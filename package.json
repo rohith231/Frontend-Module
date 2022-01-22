@@ -42,7 +42,7 @@
     "lodash.throttle": "^4.1.1",
     "material-ui-popup-state": "^1.8.3",
     "moment": "^2.29.1",
-    "nanoid": "^3.1.12",
+    "nanoid": "^3.1.31",
     "prettier": "^1.19.1",
     "react": "^17.0.2",
     "react-backdrop-filter": "^2.1.0",
