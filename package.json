@@ -31,7 +31,7 @@
     "cross-env": "^7.0.2",
     "d3-timer": "^1.0.10",
     "date-fns": "^2.22.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.24.0",
     "firebase-admin": "^9.5.0",
     "formik": "^2.2.9",
